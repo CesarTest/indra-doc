@@ -1,0 +1,11 @@
+streams:
+  schemes:
+    theme:
+      type: ReadOnlyStream
+      prefixes:
+        '': [user/themes/indra, user/themes/learn4]
+production-mode: true
+grid-size: null
+spectre:
+  exp: true
+  icons: true

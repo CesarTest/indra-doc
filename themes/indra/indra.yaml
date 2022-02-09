@@ -1,0 +1,21 @@
+enabled: true
+production-mode: false
+grid-size: grid-lg
+spectre:
+  exp: false
+  icons: false
+  
+github:
+  note: true
+  link: true
+  tree:  https://github.com/CesarTest/indra-doc/
+  commits: https://github.com/CesarTest/indra-doc/commits/develop/
+  
+streams:
+ schemes:
+   theme:
+     type: ReadOnlyStream
+     prefixes:
+       '':
+         - user/themes/indra
+         - user/themes/learn4

@@ -1,0 +1,11 @@
+state: enabled
+email: cesar.delgado@econocom.com
+fullname: Cesar
+title: Administrador
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+hashed_password: $2y$10$j9Q7orMaJa3..aC3gtywRuNbtq0D/j1zezw0V4zXhjdbL/8/MTsZa
